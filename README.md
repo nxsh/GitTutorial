@@ -2,4 +2,7 @@
 Getting used to git repos.
 
 # First commit 
-Some new text
+Some new text 
+
+# Second commit 
+Some more new text test test
