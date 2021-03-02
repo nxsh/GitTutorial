@@ -1,3 +1,0 @@
-text = "Hello"
-
-print(text)
